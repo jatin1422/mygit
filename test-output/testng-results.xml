@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T12:08:59 IST" name="Default suite" finished-at="2022-11-18T12:10:58 IST" duration-ms="118147">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T12:08:59 IST" name="Default test" finished-at="2022-11-18T12:10:58 IST" duration-ms="118147">
+      <class name="new_commercial.testing">
+        <test-method is-config="true" signature="setup()[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:09:00 IST" name="setup" finished-at="2022-11-18T12:09:03 IST" duration-ms="3523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:09:05 IST" name="login" data-provider="data" finished-at="2022-11-18T12:09:28 IST" duration-ms="23380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ritu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#160,rampura colony,ynr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Yamunanagar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Haryana]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[135001]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[878979878]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[ritupassi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:09:28 IST" name="login" data-provider="data" finished-at="2022-11-18T12:09:46 IST" duration-ms="17780" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#124,jh,uj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hamirput]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Himachal]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[122322]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[987654321]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[298765432]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[ashapassi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:09:46 IST" name="login" data-provider="data" finished-at="2022-11-18T12:10:04 IST" duration-ms="17708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jatin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#12,uji,qwerty]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gandhinagar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Gujrat]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[121121]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2345678901]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[345678901]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[jatinpassi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:10:04 IST" name="login" data-provider="data" finished-at="2022-11-18T12:10:22 IST" duration-ms="17711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[isha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#154,jfh,iop]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Haridwar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Utrakhand]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[121232]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3456789012]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[234567890]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[ishapassi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:10:22 IST" name="login" data-provider="data" finished-at="2022-11-18T12:10:39 IST" duration-ms="17813" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manjeet]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#124,jhj,poi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rampur]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Uttarpradesh]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[176888]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4567890123]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[334566543]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[manjeetpassi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:new_commercial.testing@7cc0cdad]" started-at="2022-11-18T12:10:39 IST" name="login" data-provider="data" finished-at="2022-11-18T12:10:58 IST" duration-ms="18219" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sushil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[#145,jingpur,delhi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jammu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[J&K]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[180002]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5678901234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[789054321]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[sushilpassi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- new_commercial.testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
